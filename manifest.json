@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Notes App",
-  "description": "To Takes Notes",
-  "version": "1.0",
+  "name": "Swift Notes",
+  "description": "Take notes quickly and easily on your browser. Capture your ideas in an instant for maximum productivity!",
+  "version": "1.1",
 
   "browser_action": {
    "default_icon": "icon.png",

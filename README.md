@@ -1,42 +1,24 @@
-<!-- ABOUT THE PROJECT -->
-## About The Project
+### Swift Notes
 
-This is a basic Chrome plugin example using only the popup workflow. Nothing fancy here.
+Swift Notes, your instant note taking companion on your favourite browser! Simplify your workflow with this lightweight, intuitive extension. Quickly capture your thoughts, ideas and reminders with disconcerting ease. Enjoy a quick and easy note taking experience with Swift Notes.
 
-### Built With
+#### Prerequisites
 
-* 💻 Vanilla Javascript
+To install the extension you need a browser that supports unpacked extensions. Most browsers support it, don't worry.
 
-<!-- GETTING STARTED -->
-## Getting Started
+#### Installation
 
-To get a local copy up and running follow these simple steps.
+1. Clone or Download the repository
+2. Open your web browser
+3. Go to the extension tab
+4. Enable the Developer Mode
+5. Click on the "Loaded unpacked extension" button
+6. Choose the location where you Clone or Download the repository
+7. The Extension is now installed
 
-### Prerequisites
+#### Contact 
 
-This is the software required to get the extension running
-* Google Chrome
+Email : [zachary.uhc@proton.me](mailto:zachary.uhc@proton.me)\
+Instagram : [https://www.instagram.com/zachary.uhc/](https://www.instagram.com/zachary.uhc/)
 
-### Installation
- 
-1. Clone or download the repo
-```sh
-git clone https://github.com/zacharyuhc/Chrome-Extension/tree/main/Notes%20App
-```
-2. Open Google Chrome
-3. Go to chrome://extensions
-3. Enable the developer mode
-4. Click on the "Loaded unpacked extension" button
-5. Choose the location wherrre you clone the repo
-6. The extension is now installed
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-The only thing this extension does is to open a popup with a button, if you click on the button, it will open my website inside a new tab.
-
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/zacharyuhc/Chrome-Extension/tree/main/Notes%20App](https://github.com/zacharyuhc/Chrome-Extension/tree/main/Notes%20App)
+Project Link: [https://zacharyuhc.vercel.app/projects/Swift-Notes](https://zacharyuhc.vercel.app/projects/Swift-Notes)

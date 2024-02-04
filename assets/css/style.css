@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background: #88abff;
+  background: #636363;
 }
 
 #app {
@@ -13,6 +13,7 @@ body {
   gap: 24px;
 }
 .note {
+  background-color: #e1e1e1;
   height: 200px;
   box-sizing: border-box;
   padding: 16px;
@@ -43,4 +44,7 @@ body {
 }
 .add-note:hover {
   background: rgba(0, 0, 0, 0.2);
+}
+::-webkit-scrollbar {
+  display: none;
 }

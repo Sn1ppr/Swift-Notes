@@ -20,14 +20,14 @@ function createNoteElement(id, content) {
   const element = document.createElement("textarea");
   element.classList.add("note");
   element.value = content;
-  element.placeholder = "Double-clique pour supprimer la note.";
+  element.placeholder = "Double-click to delete the note.";
 
   element.addEventListener("change", () => {
     updateNote(id, element.value);
   });
 
   element.addEventListener("dblclick", () => {
-    const doDelete = confirm("Êtes-vous sûr de vouloir supprimer cette note ?");
+    const doDelete = confirm("Are you sure you want to delete this note?");
 
     if (doDelete) {
       deleteNote(id, element);
